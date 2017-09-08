@@ -1,0 +1,18 @@
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\bin\Debug\Sizing a Separator.exe.config
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\bin\Debug\Sizing a Separator.exe
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\bin\Debug\Sizing a Separator.pdb
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing a Separator.csprojResolveAssemblyReference.cache
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing_a_Separator.Form1.resources
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing_a_Separator.Properties.Resources.resources
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing a Separator.csproj.GenerateResource.Cache
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing a Separator.exe
+C:\Users\dys01\Desktop\과제\Sizing a Separator\Sizing a Separator\obj\Debug\Sizing a Separator.pdb
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\bin\Debug\Sizing a Separator.exe.config
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\bin\Debug\Sizing a Separator.exe
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\bin\Debug\Sizing a Separator.pdb
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing a Separator.csprojResolveAssemblyReference.cache
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing_a_Separator.Form1.resources
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing_a_Separator.Properties.Resources.resources
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing a Separator.csproj.GenerateResource.Cache
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing a Separator.exe
+C:\Users\dys01\Desktop\과제\Sizing a Separator_장미선\Sizing a Separator\obj\Debug\Sizing a Separator.pdb
